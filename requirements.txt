@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+sqlalchemy
+jinja2
+python-multipart
+fpdf
